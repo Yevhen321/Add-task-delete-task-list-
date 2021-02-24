@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    justify-content: center;
+    background-image: url("https://merriam-webster.com/assets/mw/images/article/art-wap-article-main/can-task-be-a-verb-5813-7075c71d8cf734c3c83e9edf76bc66fb@1x.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.container-input-button > div {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 20px 0;
+}
+
+.container-input-button > div input, button {
+    padding: 10px 10px;
+    border-radius: 3px;
+    border: 2px solid black;
+}
+
+.container-input-button > div button {
+    cursor: pointer;
+    margin: 8px 0;
+}
+
+.container-input-button button:hover {
+    color: white;
+    background-color: black;
+    transition: 0.7s;
+}
+
+.container-list label {
+    font-size: 20px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    padding: 10px 0;
+}

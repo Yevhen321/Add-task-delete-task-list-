@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="01a9e140-02b2-4814-81c9-53cc0dc2d71e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lazy Load. Intersection Observer. Практика(21.02.21)/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project CV" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project card" beforeDir="false" afterPath="$PROJECT_DIR$/../project card" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sasha project/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sasha project/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sasha project/.idea/sasha project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sasha project/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sasha project/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sasha project/fonts/trash-outline.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sasha project/images/bask.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sasha project/images/chair.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sasha project/images/kyiv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sasha project/images/life.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sasha project/images/telephone.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sasha project/images/vodaphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sasha project/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sasha project/style/ionicons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sasha project/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sasha project/trash-outline.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../training/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../training/style/style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ojxfu9JWx99WWcHHuGHrhDIM5r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01a9e140-02b2-4814-81c9-53cc0dc2d71e" name="Default Changelist" comment="" />
+      <created>1613813907494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613813907494</updated>
+      <workItem from="1613813908589" duration="5498000" />
+      <workItem from="1614087168393" duration="18148000" />
+      <workItem from="1614109524757" duration="3988000" />
+      <workItem from="1614163161692" duration="5266000" />
+      <workItem from="1614172931814" duration="2550000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1042" y="359" key="FileChooserDialogImpl" timestamp="1614108419628">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1042" y="359" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1614108419628" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1614112748169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614112748169" />
+  </component>
+</project>
