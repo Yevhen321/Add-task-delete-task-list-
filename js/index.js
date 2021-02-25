@@ -27,7 +27,7 @@ createTaskBtn.addEventListener('click', () => {
     listElement.style.marginTop = '10px';
     listElement.style.fontSize = '20px';
     listElement.addEventListener('click', () => {
-        listElement.style.color = 'blue';
+        listElement.style.textDecoration = 'line-through';
     })
 })
 
