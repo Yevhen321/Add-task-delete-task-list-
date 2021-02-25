@@ -16,8 +16,6 @@ checkBoxAllTasks.addEventListener('change', (e) => {
     isDeleteAll = e.target.checked;
 });
 
-//===================================================================
-
 createTaskBtn.addEventListener('click', () => {
     let listElement = document.createElement('li');
     listElement.classList.add('listElement');

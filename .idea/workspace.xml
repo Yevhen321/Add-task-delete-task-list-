@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01a9e140-02b2-4814-81c9-53cc0dc2d71e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Lazy Load. Intersection Observer. Практика(21.02.21)/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../project CV" beforeDir="false" />
@@ -80,7 +80,7 @@
       <workItem from="1614163161692" duration="5266000" />
       <workItem from="1614172931814" duration="2550000" />
       <workItem from="1614185471836" duration="591000" />
-      <workItem from="1614232347764" duration="263000" />
+      <workItem from="1614232347764" duration="440000" />
     </task>
     <servers />
   </component>
